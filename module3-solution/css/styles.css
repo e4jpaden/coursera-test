@@ -1,0 +1,48 @@
+.navbar-brand {
+	height: 80px;
+}
+
+.iluvfood {
+	background-color: white;
+	padding: 10px;
+}
+
+.bob {
+  background-color: gray;
+}
+
+.nomargin {
+	margin: 0px;
+}
+
+.menu_header {
+	text-align: center;
+}
+
+.hidden-xs {
+	text-align: center;
+}
+
+.yummy {
+	text-align: center;
+}
+
+#collapsable-nav {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.fun, #nav-list {
+  border: 1px solid #61122f;
+}
+
+@media (min-width: 768px) {
+
+#nav-list {
+  display: none;
+}
+
+/*.hidden_not_xs {
+	display: none;
+}*/
+}
